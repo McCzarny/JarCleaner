@@ -7,7 +7,6 @@ Application will be used to clean directory from library duplicates. Application
 ## Used technologies
 - Application is written in C++.
 - Application can be built under Windows or Linux.
-- Uses Qt libraries.
 - Uses boost headers.
 - Windows: Project can be built with Visual Studio Community.
 - Linux: Project can be build with gcc.
